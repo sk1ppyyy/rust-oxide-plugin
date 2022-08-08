@@ -3,7 +3,7 @@
 <p align = "center">
   <a href=""><img src="https://img.shields.io/badge/CSharp-v11.0-0f80c1?style=flat&logo=csharp" alt="" /></a>
   <a href=""><img src="https://awesome.re/badge.svg" alt="" /></a>
-  <a href="https://github.com/Neptunsk1y/rust-oxide-plugin"><img src="https://github.com/discordjs/discord.js/actions/workflows/test.yml/badge.svg" alt="" /></a>
+  <a href="https://github.com/Neptunsk1y/rust-oxide-plugin"><img src="https://github.com/Neptunsk1y/rust-oxide-plugin/actions/workflows/dotnet.yml/badge.svg" alt="" /></a>
 </p>
 
 > Magic Panel Plugin for Rust, with using C# + .NET + Rust.Oxide
