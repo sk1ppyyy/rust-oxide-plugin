@@ -22,3 +22,4 @@ Sample and its code provided under MIT license, please see [LICENSE](/LICENSE). 
 under their own respective and MIT-compatible Open Source licenses.
 
 Copyright (C) 2022, Mikhail Chikankov
+
